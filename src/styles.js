@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 export const About = styled.div`
-  min-hight: 90vh;
+  min-height: 90vh;
   display: flex;
   align-items: center;
   justify-content: space-between;

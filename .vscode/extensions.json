@@ -1,3 +1,8 @@
 {
-  "recommendations": ["necinc.elmmet"]
+  "recommendations": [
+    "necinc.elmmet",
+    "dsznajder.es7-react-js-snippets",
+    "xabikos.javascriptsnippets",
+    "abusaidm.html-snippets"
+  ]
 }

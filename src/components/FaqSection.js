@@ -18,7 +18,7 @@ const FaqSection = () => {
             adipisicing elit. Sed, possimus?
           </p>
         </div>
-        <div className='faq-line'></div>
+        <div className="faq-line"></div>
       </div>
       <div className="question">
         <h4>Dialy Schedule</h4>
@@ -59,6 +59,7 @@ const FaqSection = () => {
 
 const Faq = styled(About)`
   display: block;
+
   span {
     display: block;
   }
@@ -67,8 +68,7 @@ const Faq = styled(About)`
     padding-bottom: 2rem;
     font-weight: lighter;
   }
-  h4{
-    
+  h4 {
   }
   .faq-line {
     background: #cccccc;
